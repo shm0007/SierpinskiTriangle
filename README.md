@@ -2,7 +2,7 @@
 An Implementation of constructing Sierpinski Triangle using Chaos game  
 Sierpinski Triangle: https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle  
 There are many ways to construct a Sierpinski Triangle. Chaos game process is used in this Java implmentation. These steps are followed:
- 1. Start with choosing there end points of an equalateral triangle.
+ 1. Start with choosing three end points of an equalateral triangle.
  2. Choose any point P inside the triangle
  3. Choose a random point X from the three initial end points taken at step 1
  4. Calculate the mid point of P and X and draw it
