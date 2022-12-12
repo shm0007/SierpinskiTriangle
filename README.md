@@ -19,12 +19,12 @@ dim is the dimension of the image, iteration is the number of times the algorith
 
 
 ## Example
-
-SierpinskiTriangle in a 500X500 pixel image with after 1000 iteration
-
-SierpinskiTriangle in a 500X500 pixel image with after 10000 iteration
-
-SierpinskiTriangle in a 500X500 pixel image with after 25000 iteration
+- SierpinskiTriangle in a 500X500 pixel image with after 1000 iteration  
+![Triangle1000](/images/SierpinskiTriangle_1000.jpg)
+- SierpinskiTriangle in a 500X500 pixel image with after 10000 iteration  
+![Triangle10000](/images/SierpinskiTriangle_10000.jpg)
+- SierpinskiTriangle in a 500X500 pixel image with after 25000 iteration  
+![Triangle25000](/images/SierpinskiTriangle_25000.jpg)
 
 
 
