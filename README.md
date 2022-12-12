@@ -1,4 +1,4 @@
-# SierpinskiTriangle
+# Sierpinski Triangle
 An Implementation of constructing Sierpinski Triangle using Chaos game  
 Sierpinski Triangle: https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle  
 There are many ways to construct a Sierpinski Triangle. Chaos game process is used in this Java implmentation. These steps are followed:
