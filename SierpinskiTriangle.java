@@ -72,7 +72,7 @@ public class SierpinskiTriangle {
         try {
             RenderedImage rendImage = image;
             // Make a jpeg file. png/bm[ file will also work
-            ImageIO.write(rendImage, "jpeg", new File("SierpinskiTriangle"));
+            ImageIO.write(rendImage, "jpeg", new File("SierpinskiTriangle.jpg"));
         } catch (IOException e) {
             e.printStackTrace();
         }
